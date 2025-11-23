@@ -1,0 +1,8 @@
+{
+  "name": "Swachhata Sathi",
+  "description": "An environmental awareness app to help citizens with waste management through AI-powered classification, facility locators, quizzes, and community reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
