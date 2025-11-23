@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App.tsx';
 import { LanguageProvider } from './i18n/LanguageContext.tsx';
+import "tailwindcss";
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
